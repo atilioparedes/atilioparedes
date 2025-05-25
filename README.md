@@ -1,21 +1,28 @@
 <h1 align="center"><b>Hi , I'm Atilio Paredes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NydzdoajFtdGR2YWNlbjFlMDh0ZDBxZDN3cWJhczN1N3NkMGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="margin-left: 30px; margin-bottom: 10px;" alt="Programming gif" />
 
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NydzdoajFtdGR2YWNlbjFlMDh0ZDBxZDN3cWJhczN1N3NkMGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="margin-left: 20px; margin-bottom: 10px;" alt="Programming gif" />
+
+### 🐱‍💻 About me
 
 🎓 I’m Atilio Paredes, a Computer Engineering student, currently halfway through my degree.  
 I work as a software developer, where I apply both back-end and front-end skills.
 
 💻 I’m passionate about technology, teamwork, and continuous learning. I enjoy writing clean and efficient code, and I’m always looking for ways to improve and build useful, creative solutions.
 
-  🚀 Currently focusing on:
-        Strengthening my skills in Python
-        Exploring more about JavaScript and modern web development
-    🤝 I’m open to collaborating on innovative and productive tech projects.
-    ☕ I love working in teams, staying active, drinking coffee, and learning new programming languages.
-    📫 Reach out to me at: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.com</a>
+🚀 **Currently focusing on:**
+- Strengthening my skills in **Python**
+- Exploring more about **JavaScript** and modern web development
+- Learning the basics of **Flutter**
+- Improving my **English communication skills**
+
+🤝 I’m open to collaborating on innovative and productive tech projects.  
+☕ I enjoy working in teams, staying active, drinking coffee, and learning new programming languages.  
+📫 Reach out to me at: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.com</a>
+
 ## My Skills Include
 
 <h4> Languages </h4>
