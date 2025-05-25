@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Atilio Paredes </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NydzdoajFtdGR2YWNlbjFlMDh0ZDBxZDN3cWJhczN1N3NkMGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFrdHI0bzB4MnZ3bDRsdGZmZTFqdDFiYjhlcTU1aWFwMHNrdG5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300px" style="margin-left: 20px; margin-bottom: 10px;" alt="Programming gif" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFrdHI0bzB4MnZ3bDRsdGZmZTFqdDFiYjhlcTU1aWFwMHNrdG5mNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300px" style="margin-left: 20px; margin-bottom: 10px;" alt="Programming gif" />
 
 ### 🐱‍💻 About me
 
