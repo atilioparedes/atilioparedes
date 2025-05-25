@@ -6,7 +6,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 🎓 I’m Atilio Paredes, a Computer Engineering student, currently halfway through my degree.  
-I work as a software developer at a company that builds systems for carpentry, where I apply both back-end and front-end skills.
+I work as a software developer, where I apply both back-end and front-end skills.
 
 💻 I’m passionate about technology, teamwork, and continuous learning. I enjoy writing clean and efficient code, and I’m always looking for ways to improve and build useful, creative solutions.
 
