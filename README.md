@@ -46,7 +46,9 @@ I work as a software developer, where I apply both back-end and front-end skills
 <a href= "https://www.instagram.com/paredees.atilio/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-
+<a href="https://www.linkedin.com/in/atilioparedes" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
 <h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/atilioparedes)
