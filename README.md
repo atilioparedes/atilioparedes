@@ -46,10 +46,6 @@ I work as a software developer, where I apply both back-end and front-end skills
 <a href= "https://www.instagram.com/paredees.atilio/?hl=es">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.tiktok.com/@vapixel_" >
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-
 
 <h2>Github stats:</h2> 
 
