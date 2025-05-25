@@ -4,7 +4,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NydzdoajFtdGR2YWNlbjFlMDh0ZDBxZDN3cWJhczN1N3NkMGEwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Programming gif">
 </p>
 
-<img align="right" width="300px" alt="Busy cute unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 🎓 I’m Atilio Paredes, a Computer Engineering student, currently halfway through my degree. I work as a software developer at a company that builds systems for carpentry, where I apply both back-end and front-end skills.
