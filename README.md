@@ -18,6 +18,19 @@ I work as a software developer, where I apply both back-end and front-end skills
 🤝 I’m open to collaborating on innovative and productive tech projects.  
 ☕ I enjoy working in teams, staying active, drinking coffee, and learning new programming languages.  
 📫 Reach out to me at: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.com</a>
+## 👐 Volunteering
+
+- 🎤 **Presenter at the Technological and Scientific Exhibition (ETYC)** – *2022*  
+  Participated as a volunteer representing my major at ETYC, presenting projects to high school students and visitors.
+
+- 🧪 **Lab Assistant for the Programming Language course** – *2023*  
+  Supported students during practical lab sessions, assisting with exercises and collaborating with instructors to foster learning.
+
+- 🤝 **Workgroup Member – Student Delegation, Computer Engineering Program, Facultad Politécnica UNA** – *2024–2025*  
+  Collaborated in organizing academic and student-focused initiatives, supporting the elected student representatives and contributing to a better educational environment.
+
+- 🧑‍💼 **Student Representative – Computer Engineering Degree, Facultad Politécnica UNA** – *2025–2026*  
+  Elected as student delegate to represent the Computer Engineering program, promoting learning spaces, strengthening academic-community ties, and fostering professional growth opportunities.
 
 ## My Skills Include
 
