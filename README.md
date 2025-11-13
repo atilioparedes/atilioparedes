@@ -67,7 +67,9 @@ Trabajo como desarrollador de software, aplicando habilidades tanto en back-end 
 </a>
 
 <h2>Estadísticas de GitHub:</h2> 
+### 💡 Lenguajes más usados
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/atilioparedes)
 [![](https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/atilioparedes)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=material-palenight)](https://github.com/atilioparedes)
 </div>
