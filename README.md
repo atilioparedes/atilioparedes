@@ -68,6 +68,14 @@ Trabajo como desarrollador de software, aplicando habilidades tanto en back-end 
 
 <h2>Estadísticas de GitHub:</h2> 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=material-palenight" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Langs" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=material-palenight" 
+    alt="GitHub Streak" 
+    width="48%" 
+  />
 </p>
