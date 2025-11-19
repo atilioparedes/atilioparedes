@@ -65,16 +65,25 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
 </a>
 
-<h2>Estadísticas de GitHub:</h2> 
-<p align="center">
+<h2 align="center">Estadísticas de GitHub</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" 
+    alt="GitHub Stats" 
+    width="400px" 
+    style="border-radius: 15px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=false" 
     alt="Top Langs" 
-    width="48%" 
+    width="300px" 
+    style="border-radius: 15px;"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=material-palenight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak" 
-    width="48%" 
+    width="400px" 
+    style="border-radius: 15px;"
   />
-</p>
+</div>
+
