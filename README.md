@@ -21,9 +21,6 @@ Trabajo como desarrollador de software, aplicando habilidades tanto en back-end 
 
 ## 👐 Voluntariado
 
-- 🎤 **Presentador en la Exposición Tecnológica y Científica (ETYC)** – *2022*  
-  Participé como voluntario representando mi carrera en ETYC, presentando proyectos a estudiantes de colegio y visitantes.
-
 - 💻 **Asistente de laboratorio para la materia Lenguajes de Programación** – *2023*  
   Apoyé a estudiantes en prácticas de programación en C/C++, brindando ayuda con ejercicios y colaborando con los docentes para fomentar el aprendizaje.
 
