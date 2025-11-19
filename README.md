@@ -42,6 +42,8 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white">
+  <img src="https://img.shields.io/badge/Odoo-7A0928?style=for-the-badge&logo=odoo&logoColor=white">
+
 </span>
 
 <h4> Otras herramientas y tecnologías </h4>
