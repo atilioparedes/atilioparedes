@@ -16,7 +16,7 @@ Me apasiona la tecnología, el trabajo en equipo y el aprendizaje continuo. Disf
 - Mejorar mis habilidades de comunicación en **inglés**
 
 Estoy abierto a colaborar en proyectos tecnológicos innovadores y productivos.  
-☕ Me gusta trabajar en equipo, mantenerme activo, tomar café y aprender nuevos lenguajes de programación.  
+Me gusta trabajar en equipo, mantenerme activo, tomar café y aprender nuevos lenguajes de programación.  
 Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.com</a>
 
 ## Voluntariado
