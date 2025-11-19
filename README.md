@@ -79,11 +79,5 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
     width="300px" 
     style="border-radius: 15px;"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=atilioparedes&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak" 
-    width="400px" 
-    style="border-radius: 15px;"
-  />
 </div>
 
