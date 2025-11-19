@@ -12,7 +12,7 @@ Trabajo como desarrollador de software, aplicando habilidades tanto en back-end 
  **Actualmente enfocado en:**
 - Fortalecer mis habilidades en **Python**
 - Explorar más sobre **JavaScript** y desarrollo web moderno
-- Aprender lo básico de **Flutter**
+- Aprender la herramienta **Odoo**
 - Mejorar mis habilidades de comunicación en **inglés**
 
 🤝 Estoy abierto a colaborar en proyectos tecnológicos innovadores y productivos.  
