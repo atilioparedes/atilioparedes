@@ -2,14 +2,14 @@
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExdHY5OHZpcng3cmxidTV2OWJ6eXF4amVqZGx3OHQ5bjV5Nm16NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="margin-left: 20px; margin-bottom: 10px;" alt="Programming gif" />
 
-### 🐱‍💻 Sobre mí
+### Sobre mí
 
 🎓 Soy Atilio Paredes, estudiante de Ingeniería en Informática, actualmente a mitad de la carrera.  
 Trabajo como desarrollador de software, aplicando habilidades tanto en back-end como en front-end.
 
 💻 Me apasiona la tecnología, el trabajo en equipo y el aprendizaje continuo. Disfruto escribir código limpio y eficiente, y siempre busco mejorar y construir soluciones útiles y creativas.
 
-🚀 **Actualmente enfocado en:**
+ **Actualmente enfocado en:**
 - Fortalecer mis habilidades en **Python**
 - Explorar más sobre **JavaScript** y desarrollo web moderno
 - Aprender lo básico de **Flutter**
@@ -19,15 +19,15 @@ Trabajo como desarrollador de software, aplicando habilidades tanto en back-end 
 ☕ Me gusta trabajar en equipo, mantenerme activo, tomar café y aprender nuevos lenguajes de programación.  
 📫 Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.com</a>
 
-## 👐 Voluntariado
+## Voluntariado
 
-- 💻 **Asistente de laboratorio para la materia Lenguajes de Programación** – *2023*  
+- **Asistente de laboratorio para la materia Lenguajes de Programación** – *2023*  
   Apoyé a estudiantes en prácticas de programación en C/C++, brindando ayuda con ejercicios y colaborando con los docentes para fomentar el aprendizaje.
 
-- 🤝 **Miembro de grupo de trabajo – Delegación Estudiantil, Ingeniería Informática, Facultad Politécnica UNA** – *2024–2025*  
+- **Miembro de grupo de trabajo – Delegación Estudiantil, Ingeniería Informática, Facultad Politécnica UNA** – *2024–2025*  
   Colaboré en la organización de iniciativas académicas y estudiantiles, apoyando a los representantes estudiantiles electos.
 
-- 🧑‍💼 **Delegado Estudiantil – Carrera de Ingeniería Informática, Facultad Politécnica UNA** – *2025–2026*  
+- **Delegado Estudiantil – Carrera de Ingeniería Informática, Facultad Politécnica UNA** – *2025–2026*  
   Elegido como delegado de carrera para representar a los estudiantes, promoviendo espacios de aprendizaje, fortaleciendo vínculos académicos y fomentando oportunidades de crecimiento profesional.
 
 ## Mis Habilidades
