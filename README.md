@@ -4,7 +4,7 @@
 
 ### Sobre mí
 
-🎓 Soy Atilio Paredes, estudiante de Ingeniería en Informática, actualmente a mitad de la carrera.  
+🎓 Soy Atilio Paredes, estudiante de Ingeniería en Informática, actualmente en el cuarto año de la carrera.  
 Trabajo como desarrollador de software, aplicando habilidades tanto en back-end como en front-end.
 
 💻 Me apasiona la tecnología, el trabajo en equipo y el aprendizaje continuo. Disfruto escribir código limpio y eficiente, y siempre busco mejorar y construir soluciones útiles y creativas.
