@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Atilio Paredes></h1>
+<h1 align="center"><b>Hola, soy Atilio Paredes</h1>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmExdHY5OHZpcng3cmxidTV2OWJ6eXF4amVqZGx3OHQ5bjV5Nm16NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" style="margin-left: 20px; margin-bottom: 10px;" alt="Programming gif" />
 
