@@ -74,18 +74,15 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=false&count_private=false&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight" 
     alt="GitHub Stats" 
-    width="400"
-    style="border-radius: 15px;"
+    style="border-radius: 15px; max-width: 100%;"
   />
-
-  <!-- Top Languages -->
+  
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
-    width="300"
-    style="border-radius: 15px;"
+    style="border-radius: 15px; max-width: 100%;"
   />
 
 </div>
