@@ -70,18 +70,24 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 </a>
 
 <h2 align="center">Estadísticas de GitHub</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=tokyonight&hide_border=false&count_private=false&cache_seconds=1800" 
     alt="GitHub Stats" 
-    width="400px" 
+    width="400"
     style="border-radius: 15px;"
   />
+
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=false" 
-    alt="Top Langs" 
-    width="300px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=tokyonight&hide_border=false&langs_count=8&cache_seconds=1800" 
+    alt="Top Languages" 
+    width="300"
     style="border-radius: 15px;"
   />
+
 </div>
+
 
