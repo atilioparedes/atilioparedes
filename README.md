@@ -77,7 +77,10 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=dark&cache_seconds=21600" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=dark&cache_seconds=21600" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/atilioparedes)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=dark&hide_border=true)](https://github.com/atilioparedes)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=atilioparedes&theme=dark&hide_border=true&locale=es)](https://github.com/atilioparedes)
 
 </div>
