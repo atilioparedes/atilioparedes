@@ -77,9 +77,7 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 
 <div align="center">
 
-<!-- Tu instancia personal de Vercel -->
-<img src="https://YOUR-VERCEL-URL/api?username=atilioparedes&show_icons=true&theme=dark&cache_seconds=21600" />
-
-<img src="https://YOUR-VERCEL-URL/api/top-langs/?username=atilioparedes&layout=compact&theme=dark&cache_seconds=21600" />
+<img src="https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=dark&cache_seconds=21600" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=dark&cache_seconds=21600" />
 
 </div>
