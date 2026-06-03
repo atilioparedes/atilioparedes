@@ -77,10 +77,22 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilioparedes&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/atilioparedes)
+<h2 align="center">Estadísticas de GitHub</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atilioparedes&layout=compact&theme=dark&hide_border=true)](https://github.com/atilioparedes)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=atilioparedes&theme=dark&hide_border=true&locale=es)](https://github.com/atilioparedes)
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atilioparedes&theme=github_dark" alt="Resumen del perfil de GitHub de Atilio" />
+
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atilioparedes&theme=github_dark" alt="Lenguajes por repositorio" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atilioparedes&theme=github_dark" alt="Lenguajes por commits" />
+
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atilioparedes&theme=github_dark" alt="Estadísticas generales de GitHub" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atilioparedes&theme=github_dark&utcOffset=-3" alt="Horario más productivo" />
+
+</div>
 
 </div>
