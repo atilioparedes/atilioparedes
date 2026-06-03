@@ -73,7 +73,6 @@ Contáctame: <a href="mailto:atilioparedes973@gmail.com">atilioparedes973@gmail.
 
 ---
 
-<h2 align="center">Estadísticas de GitHub</h2>
 
 <div align="center">
 
