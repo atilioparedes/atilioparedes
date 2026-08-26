@@ -140,5 +140,3 @@ Me interesa especialmente continuar creciendo en áreas como **backend developme
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atilioparedes&theme=github_dark&utcOffset=-3" alt="Productive time" />
 
 </div>
-
----
