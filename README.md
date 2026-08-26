@@ -142,7 +142,3 @@ Me interesa especialmente continuar creciendo en áreas como **backend developme
 </div>
 
 ---
-
-## 📫 Contacto
-
-Estoy abierto a oportunidades profesionales, colaboración en proyectos y conversaciones relacionadas con desarrollo de software.
